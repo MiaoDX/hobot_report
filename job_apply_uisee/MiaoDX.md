@@ -2,13 +2,6 @@
 % MiaoDX 缪东旭 <br>MiaoDX@hotmail.com miaodx@tju.edu.cn
 % Sep. 2018
 
-<aside class="notes">
-    https://github.com/hakimel/reveal.js/issues/2180#issuecomment-408520237
-    
-Go to "chrome://flags/". Disable "New Media Controls"
-</aside>
-
-
 ***
 # Outline
 * Personal Information
@@ -16,6 +9,11 @@ Go to "chrome://flags/". Disable "New Media Controls"
     - School, Active Camera Relocalization (Finished)
     - Intern, Vanishing Point detection and application (Ongoing)
 * Summary
+
+<aside class="notes">
+https://github.com/hakimel/reveal.js/issues/2180#issuecomment-408520237
+Go to "chrome://flags/". Disable "New Media Controls"
+</aside>
 
 ***
 
@@ -389,4 +387,6 @@ enough, max(-(x*4)^2+1.5, -((x+1.5)*4)^2-5.5)
 
 
 ***
-# That is all, thanks!
+# That's all, thanks!
+
+> Good Luck & Have Fun.
