@@ -372,15 +372,10 @@ enough, max(-(x*4)^2+1.5, -((x+1.5)*4)^2-5.5)
 
 </aside>
 
+***
 
-
-
-
-
-
-
-
-
+I am not only looking for one job, <br>
+but also asking for one ticket of your rocket ship.
 
 
 
